@@ -1,3 +1,4 @@
+<?php $title = "Contact"?>
 <?php
 include "header.php";
 ?>

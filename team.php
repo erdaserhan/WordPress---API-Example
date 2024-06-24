@@ -1,3 +1,4 @@
+<?php $title = "Team"?>
 <?php
 include "header.php";
 ?>

@@ -1,3 +1,4 @@
+<?php $title = "Blog"?>
 <?php
 include "header.php";
 ?>

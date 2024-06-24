@@ -1,3 +1,4 @@
+<?php $title = "Portfolio"?>
 <?php
 include "header.php";
 ?>
