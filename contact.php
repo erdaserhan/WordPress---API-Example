@@ -151,7 +151,7 @@ include "header.php";
                     "320": {
                       "slidesPerView": 1,
                       "spaceBetween": 40
-                    },
+                    },  
                     "1200": {
                       "slidesPerView": 1,
                       "spaceBetween": 1
@@ -159,7 +159,8 @@ include "header.php";
                   }
                 }
               </script>
-              <div class="swiper-wrapper">
+              <div class="swiper-wrapper" id="boucle-temoignages">
+<!--
                 <div class="swiper-slide">
                   <div class="testimonial mx-auto">
                     <figure class="img-wrap">
@@ -205,6 +206,7 @@ include "header.php";
                     </blockquote>
                   </div>
                 </div>
+              -->
               </div>
               <div class="swiper-pagination"></div>
             </div>
